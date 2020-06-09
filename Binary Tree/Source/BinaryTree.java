@@ -210,7 +210,7 @@ public class BinaryTree {
 	  BinaryTree tree2 = new BinaryTree(Integer.valueOf(6));
 	  tree2.attachLeft(Integer.valueOf(7));
 	  tree2.attachRight(Integer.valueOf(8));
-	  System.out.println("tree2 is: ");
+	  System.out.println("Tree2 is: ");
 	  tree2.preOrderPrint(tree2.getRoot());
 	  System.out.println(); 
 	  BinaryTree tree3 = new BinaryTree(Integer.valueOf(3));
