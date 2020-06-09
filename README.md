@@ -1,2 +1,2 @@
 # Trees
-Tree Data Structures
+Tree Data Structures rebuilt using lecture notes.
